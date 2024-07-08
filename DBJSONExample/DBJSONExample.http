@@ -1,0 +1,6 @@
+@DBJSONExample_HostAddress = http://localhost:5096
+
+GET {{DBJSONExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
